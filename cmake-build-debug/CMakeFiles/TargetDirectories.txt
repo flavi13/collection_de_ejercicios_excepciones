@@ -1,0 +1,5 @@
+/Users/flaviarivero/collection_de_ejercicios_excepciones/cmake-build-debug/CMakeFiles/collection_de_ejercicios_excepciones.dir
+/Users/flaviarivero/collection_de_ejercicios_excepciones/cmake-build-debug/CMakeFiles/main2.dir
+/Users/flaviarivero/collection_de_ejercicios_excepciones/cmake-build-debug/CMakeFiles/main3.dir
+/Users/flaviarivero/collection_de_ejercicios_excepciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/flaviarivero/collection_de_ejercicios_excepciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

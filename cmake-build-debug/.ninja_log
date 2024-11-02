@@ -1,0 +1,21 @@
+# ninja log v6
+5	251	1730549250234500396	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio6/excepcion_no_capturada.cpp.o	5c13e34fae29bba7
+8	243	1730545693907659487	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio3/funciones.cpp.o	a206871329dbaed8
+4	238	1730543705088733841	CMakeFiles/main3.dir/ejercicio2/error_excepcion.cpp.o	df116a3a0ab0cf04
+599	728	1730538809652616035	main2	5406b78bea3fc30a
+11	528	1730546432823085294	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio4/mi_excepcion.cpp.o	b6448a9dc735adee
+2	598	1730538809055916009	CMakeFiles/main2.dir/ejercicio2/main2.cpp.o	3ca09e378af6d8c7
+3	62	1730550325747951656	build.ninja	46189cba322a1f6
+3	596	1730538809056598968	CMakeFiles/main2.dir/ejercicio2/error_valor.cpp.o	8a8b0928a0f37fdc
+5	658	1730543099247103619	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio1/bandera.cpp.o	95eab4a7d8603ea1
+6	604	1730549850650384363	CMakeFiles/collection_de_ejercicios_excepciones.dir/main.cpp.o	eb83667125cbfe5e
+6	603	1730532746437160575	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio2/error_valor.cpp.o	30d93a1c7056d47b
+444	567	1730543705528743788	main3	2136ab533211cb32
+7	603	1730549850651331739	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio7/archivo.cpp.o	e09dc20cc9ade343
+3	443	1730543705087752173	CMakeFiles/main3.dir/ejercicio2/main3.cpp.o	81e551c9ac888984
+7	259	1730546841191386133	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio5/excepcion.cpp.o	bcb86f3ec08fd58c
+604	724	1730549851248890163	collection_de_ejercicios_excepciones	2467d990eb12f162
+2	58	1730550325747951656	build.ninja	46189cba322a1f6
+11	271	1730552457970630230	CMakeFiles/collection_de_ejercicios_excepciones.dir/ejercicio5/excepcion.cpp.o	bcb86f3ec08fd58c
+10	550	1730552457969270405	CMakeFiles/collection_de_ejercicios_excepciones.dir/main.cpp.o	eb83667125cbfe5e
+550	705	1730552458510228590	collection_de_ejercicios_excepciones	2467d990eb12f162
